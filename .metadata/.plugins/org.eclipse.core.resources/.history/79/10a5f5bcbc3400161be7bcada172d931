@@ -10,7 +10,4 @@
   <sca:component xmi:id="_IIMOQDS6EeavY5lCgy6IwQ" name="ComponentProcess" compositeext:version="1.0.0.qualifier">
     <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_IIMOQTS6EeavY5lCgy6IwQ" processName="testapplication.Process"/>
   </sca:component>
-  <sca:component xmi:id="_vPM0EDS8EeavY5lCgy6IwQ" name="ComponentCopyOfProcess" compositeext:version="1.0.0.qualifier">
-    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_vPM0ETS8EeavY5lCgy6IwQ" processName="testapplication.CopyOfProcess"/>
-  </sca:component>
 </sca:composite>
